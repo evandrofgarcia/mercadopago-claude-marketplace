@@ -1,4 +1,4 @@
-# mercadopago-claude-marketplace
+# mercadopago-Claude-marketplace
 
 **The official Claude Code plugin marketplace for Mercado Pago payment integrations.**
 
